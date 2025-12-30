@@ -1,4 +1,4 @@
-![Todo App Screenshot](./assets/todo-app-screen.png)
+![Todo App Screenshot](./src/assets/todo-app-resim.png)
 
 # React Todo App
 
@@ -24,4 +24,5 @@ A simple and clean Todo application built with React.
 
 npm install
 npm run dev
+
 
