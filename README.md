@@ -1,6 +1,8 @@
+# React Todo App
+
 ![Todo App Screenshot](./src/assets/todo-app-screen.png)
 
-# React Todo App
+## 🚀 [Live Demo](https://gokhansagli-todoapp.vercel.app/)
 
 A simple and clean Todo application built with React.
 
@@ -25,7 +27,3 @@ A simple and clean Todo application built with React.
 ```bash
 npm install
 npm run dev
-
-
-
-
