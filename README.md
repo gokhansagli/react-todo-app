@@ -22,8 +22,10 @@ A simple and clean Todo application built with React.
 
 ## Getting Started
 
+```bash
 npm install
 npm run dev
+
 
 
 
