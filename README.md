@@ -1,8 +1,11 @@
+![Todo App Screenshot](./assets/todo-app-resim.png)
+
 # React Todo App
 
 A simple and clean Todo application built with React.
 
 ## Features
+
 - Add / delete todos
 - Edit todos inline
 - Mark as completed or pending
@@ -11,11 +14,13 @@ A simple and clean Todo application built with React.
 - Icons with react-icons
 
 ## Technologies
+
 - React
 - Hooks (useState, useEffect)
 - Bootstrap
 - LocalStorage
 
 ## Getting Started
+
 npm install
 npm run dev
